@@ -36,8 +36,6 @@ $("#top-menu a").click(function () {
     $("#breadcrumb").text(this.innerHTML + " : " + this.title);
 });
 
-var name = 'name1';
-var number = '1234';
 
 var contacts =[
     ['Pers 1', '0756000000'],
